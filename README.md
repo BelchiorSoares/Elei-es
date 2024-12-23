@@ -1,2 +1,9 @@
 # Elei-es
-Este repositório contém um programa de eleições 
+Este repositório contém um programa de eleições
+
+Ò programa possui as seguintes funcionalidades:
+        * Cadastrar funcionarios;
+        * Atribuir Salarios aos funcionários;
+        * Listar funcionários;
+        * Eleger candidatos e
+        * Ver resultados das eleições.
